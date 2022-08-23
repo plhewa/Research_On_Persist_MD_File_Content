@@ -1,4 +1,4 @@
-title: Management of third-party libraries
+title: Management of third-party libraries.
 
 why: Busines value
 
